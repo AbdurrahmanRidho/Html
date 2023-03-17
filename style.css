@@ -1,0 +1,16 @@
+table thead tr th {
+    border-bottom: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+tbody tr td {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.label {
+    text-transform: lowercase;
+    background-color: rgb(10, 230, 10);
+    padding: 5px;
+    border-radius: 20px;
+    color: aliceblue;
+}
